@@ -211,7 +211,7 @@ var overlaySelected;
 
 
 		var arrowsmith_attribution = new ol.Attribution({
-		 	html: "Aaron Arrowsmith, 'Chart of the world on Mercator's projection...' (1796)."
+		 	html: "Arrowsmith, 'Chart of the world on Mercator's projection...' (1796)."
 		});
 		
 		var faden_america_attribution = new ol.Attribution({
